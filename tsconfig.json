@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"], //ok
+    "allowJs": true, //ok
+    "allowSyntheticDefaultImports": true, //ok
+    "skipDefaultLibCheck": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
